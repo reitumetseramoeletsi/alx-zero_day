@@ -1,1 +1,1 @@
-First git projects
+First git projects: Practise a lot
